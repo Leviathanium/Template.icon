@@ -7,63 +7,6 @@
     "creation_date": "2025-04-22T00:00:00Z",
     "exported_by": "Theme Manager v1.0.0"
   },
-  "content": {
-    "system_count": 4,
-    "tool_count": 1,
-    "collection_count": 1,
-    "system_icons": ["Collections.png", "Recently Played.png", "Tools.png", "Game Boy Advance (GBA).png"],
-    "tool_icons": ["Settings.png"],
-    "collection_icons": ["Favorites.png"]
-  },
-  "path_mappings": [
-    {
-      "theme_path": "SystemIcons/Collections.png",
-      "system_path": "/mnt/SDCARD/.media/Collections.png",
-      "metadata": {
-        "SystemName": "Collections",
-        "IconType": "System"
-      }
-    },
-    {
-      "theme_path": "SystemIcons/Recently Played.png",
-      "system_path": "/mnt/SDCARD/.media/Recently Played.png",
-      "metadata": {
-        "SystemName": "Recently Played",
-        "IconType": "System"
-      }
-    },
-    {
-      "theme_path": "SystemIcons/Tools.png",
-      "system_path": "/mnt/SDCARD/Tools/.media/tg5040.png",
-      "metadata": {
-        "SystemName": "Tools",
-        "IconType": "System"
-      }
-    },
-    {
-      "theme_path": "SystemIcons/Game Boy Advance (GBA).png",
-      "system_path": "/mnt/SDCARD/Roms/.media/Game Boy Advance (GBA).png",
-      "metadata": {
-        "SystemName": "Game Boy Advance",
-        "SystemTag": "GBA",
-        "IconType": "System"
-      }
-    },
-    {
-      "theme_path": "ToolIcons/Settings.png",
-      "system_path": "/mnt/SDCARD/Tools/Settings/.media/Settings.png",
-      "metadata": {
-        "ToolName": "Settings",
-        "IconType": "Tool"
-      }
-    },
-    {
-      "theme_path": "CollectionIcons/Favorites.png",
-      "system_path": "/mnt/SDCARD/Collections/Favorites/.media/Favorites.png",
-      "metadata": {
-        "CollectionName": "Favorites",
-        "IconType": "Collection"
-      }
-    }
-  ]
+  "content": {},
+  "path_mappings": []
 }
